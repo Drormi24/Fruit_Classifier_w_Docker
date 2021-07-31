@@ -9,3 +9,13 @@ In addition, I utilized Torchvision transformers on trainset images for improvin
 Enjoy
 
 Thanks to: E-yantra Robotics Competition 2018-19 for fruit dataset
+
+On your cmd, copy the following:
+"docker build -t your_tag_name . "
+Let your system create docker image...
+
+"docker image ls"
+Verify image was created and get its name
+
+"docker container run -p 8888:8888 [image name from list above]"
+System will run container and show a URL which you can copy and run on your browser
