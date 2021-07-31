@@ -19,3 +19,5 @@ Verify image was created and get its name
 
 "docker container run -p 8888:8888 [image name from list above]"
 System will run container and show a URL which you can copy and run on your browser
+Container URL:
+localhost:8888/?token=69ceb3808a06f71f648d975266618a6b1e628161399a5f3f
