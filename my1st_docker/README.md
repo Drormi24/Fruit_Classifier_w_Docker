@@ -31,3 +31,6 @@ Verify image was created and get its name.
 
 System will run container and present a URL which you can copy and run on your browser.
 
+Enter URL into your browser - a folder with all related files will be opened. 
+
+Open the notebook and run it.
