@@ -17,6 +17,8 @@ Enjoy
 
 On your cmd, copy the following:
 
+go to the root folder in which files are located.
+
 "docker build -t [your_tag_name] . "
 
 Let your system create a docker image...
