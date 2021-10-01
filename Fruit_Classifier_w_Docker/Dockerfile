@@ -1,7 +1,7 @@
 FROM python:3.8.5
 LABEL version="0.1"
 LABEL maintainer="Dror Milo"
-LABEL description="My first Docker container of a Jupiter Notebook with a LeNet Neural Network \
+LABEL description="A Docker container of a Jupiter Notebook with a LeNet Neural Network \
 				   trained and utilied for fruits recognition"
 
 WORKDIR /data
