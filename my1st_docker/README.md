@@ -1,4 +1,4 @@
-# My 1st docker project
+# A Deep Learning Classifier wraped with a Docker container
 I am excited to release my 1st docker project wrapping a small Deep Learning fruit classifier.
 
 This Classifier is coded on a Jupiter notebook and based on e-yantra fruits dataset utilizing PyTorch and based on LeNet5 model.
@@ -13,7 +13,7 @@ In addition, I utilized Torchvision transformers on trainset images for improvin
 
 Enjoy
 
-# Thanks to: E-yantra Robotics Competition 2018-19 for fruit dataset
+Thanks to: E-yantra Robotics Competition 2018-19 for fruit dataset
 
 On your cmd, copy the following:
 
